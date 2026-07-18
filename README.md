@@ -7,5 +7,5 @@ _Turismo Cinegético: Equilibrio entre Conservación, Ética e Impacto Socioecon
 
 _Hunting Tourism: Balance between Conservation, Ethics and Socioeconomic Impact: A Bibliographic Review_
 
-Slides and paper (in Spanish)
+(Slides)[https://github.com/jrcarob/Cigestur/blob/main/2024/Cigestur_final.pdf] and paper (in Spanish)
 
