@@ -1,7 +1,7 @@
 # Cigestur
 Materials for yearly editions of the _International Congress in Tourism Management (CIGESTUR)_
 
-## 2024
+## 2024 Edition
 
 _Turismo Cinegético: Equilibrio entre Conservación, Ética e Impacto Socioeconómico: Una Revisión Bibliográfica_
 
