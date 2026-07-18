@@ -1,2 +1,2 @@
 # Cigestur
-Material for the International Congress in Tourism Management
+Materials for the International Congress in Tourism Management
