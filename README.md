@@ -1,9 +1,10 @@
 # Cigestur
-Materials for yearly editions of the _International Congress in Tourism Management (CIGESTUR)_
+
+### Materials for yearly editions of the _International Congress in Tourism Management (CIGESTUR)_
 
 ## 2024 Edition
 
-### _Turismo Cinegético: Equilibrio entre Conservación, Ética e Impacto Socioeconómico: Una Revisión Bibliográfica_
+_Turismo Cinegético: Equilibrio entre Conservación, Ética e Impacto Socioeconómico: Una Revisión Bibliográfica_
 
 _Hunting Tourism: Balance between Conservation, Ethics and Socioeconomic Impact: A Bibliographic Review_
 
@@ -11,7 +12,7 @@ _Hunting Tourism: Balance between Conservation, Ethics and Socioeconomic Impact:
 
 ## 2025 Edition
 
-### _Astroturismo: Una Revisión Bibliométrica_
+_Astroturismo: Una Revisión Bibliométrica_
 
 _Astrotourism: A Bibliometric Review_
 
