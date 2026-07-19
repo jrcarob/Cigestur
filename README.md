@@ -9,3 +9,10 @@ _Hunting Tourism: Balance between Conservation, Ethics and Socioeconomic Impact:
 
 [Slides](https://github.com/jrcarob/Cigestur/blob/main/2024/Cigestur_final.pdf) and [paper](https://github.com/jrcarob/Cigestur/blob/main/2024/ponencia_Cigestur_final.pdf) (in Spanish)
 
+## 2025 Edition
+
+_Astroturismo: Una Revisión Bibliométrica_
+
+_Astrotourism: A Bibliometric Review_
+
+[Slides](https://github.com/jrcarob/Cigestur/blob/main/2025/cigestur25.pdf) (in Spanish)
